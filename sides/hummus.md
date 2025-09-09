@@ -15,4 +15,5 @@
 
 ## Instructions
 
-- Mix all ingredients in a blender until homogenous
+- Mix all ingredients except parsley in a blender until homogenous
+- Add parsley on top and serve
